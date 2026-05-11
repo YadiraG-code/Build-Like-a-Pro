@@ -170,11 +170,13 @@ nav,
   background-color: white;
   color: #242424;
 }
+
 /* 
 
   LANDING PAGE 
   
 */
+
 #landing-page {
   min-height: 100vh;
 }
